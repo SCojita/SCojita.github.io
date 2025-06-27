@@ -34,4 +34,4 @@ Proyecto de experiencia de RA tanto en web como en aplicación móvil:
 ## 📫 Contacto
 
 - [GitHub](https://github.com/SCojita)
-- [LinkedIn]([https://www.linkedin.com/in/stefan-cojita-2712ab348/])
+- [LinkedIn](https://www.linkedin.com/in/stefan-cojita-2712ab348/)
