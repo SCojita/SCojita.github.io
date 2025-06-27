@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Portfolio de SCojita
+title: Stefan Cojita
 ---
 
-# 👋 ¡Hola! Soy SCojita
+# 👋 ¡Hola! ¡Bienvenido a mi portfolio!
 
 Soy desarrollador de software enfocado en aplicaciones multiplataforma.  
 Apasionado por el desarrollo móvil, la realidad aumentada y la optimización de procesos.
