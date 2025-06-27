@@ -15,6 +15,7 @@ Apasionado por el desarrollo móvil, la realidad aumentada y la optimización de
 ### 🎯 FriendSync
 Aplicación móvil para organizar eventos entre amigos.  
 📱 Desarrollada en Android Studio con integración de API REST y Firebase.
+- [Enlace del proyecto]([https://github.com/SCojita](https://github.com/SCojita/FriendSync.git))
 
 ### 🖼️ Experiencias de Realidad Aumentada
 Proyecto de experiencia de RA tanto en web como en aplicación móvil:  
