@@ -17,7 +17,9 @@ Aplicación móvil para organizar eventos entre amigos.
 
 ### 🖼️ Experiencias de Realidad Aumentada
 Proyecto de experiencia de RA tanto en web como en aplicación móvil:  
-- AR.js en navegador (NFT tracking con vídeo y partículas).  
+- AR.js en navegador (NFT tracking con vídeo y partículas).
+  [Enlace del proyecto](https://github.com/SCojita/Experiencia-RA-Web)
+  
 - Unity + Vuforia para app nativa.
 
 ---
